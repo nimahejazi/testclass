@@ -1,0 +1,15 @@
+{
+    "name": "RobotKudos/TestClass",
+    "authors": [
+        {
+            "name": "Nima Hejazi",
+            "email": "nima@robotkudos.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RobotKudos\\TestClass\\": "src/"
+        }
+    }
+}
