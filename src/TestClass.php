@@ -4,6 +4,6 @@ namespace RobotKudos\TestClass;
 
 class TestClass {
     public static function sayHello() {
-        return 'Hello!!! update-1';
+        return 'Hello!!! update-2';
     }
 }
